@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\task_2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\task_2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\task_2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\bin\Debug\net6.0\task_2.exe
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\bin\Debug\net6.0\task_2.deps.json
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\bin\Debug\net6.0\task_2.runtimeconfig.json
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\bin\Debug\net6.0\task_2.dll
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\bin\Debug\net6.0\task_2.pdb
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\task_2.dll
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\refint\task_2.dll
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\task_2.pdb
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\task_2.genruntimeconfig.cache
+C:\Users\Dell\Desktop\hw_Sem28.08\task_2\obj\Debug\net6.0\ref\task_2.dll
