@@ -15,3 +15,4 @@ if (numberA == numberB)
     Console.WriteLine("Первое число " + numberA + " равно второму " + numberB);
 }
 
+
