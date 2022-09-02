@@ -10,3 +10,7 @@ else
 {
     Console.WriteLine("Второе число " + numberB + " больше чем первое " + numberA);
 }
+if (numberA == numberB)
+{
+    Console.WriteLine("Первое число " + numberA + " равно второму " + numberB);
+}
