@@ -1,11 +1,11 @@
 ﻿// Задача 6. Является ли число четным
-Console.WriteLine("Введите число: ");
-int numberN = Convert.ToInt32(Console.ReadLine());
-if (numberN % 2 != 1)
+Console.Write("Введите число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+if (a % 2 == 0)
 {
-   Console.WriteLine("число "+ numberN +" является четным"); 
+   Console.WriteLine("число четное"); 
 }
 else
 {
-    Console.WriteLine("число "+ numberN +" является нечетным");
+    Console.WriteLine("число нечетное");
 }
